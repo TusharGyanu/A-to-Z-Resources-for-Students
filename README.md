@@ -427,7 +427,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
 |3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
 |4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
-|4 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
+|4 | [PennApps](http://pennapps.com/)|USA   | Yes| Feburary | July end |
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
 |7 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
